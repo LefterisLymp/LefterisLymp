@@ -8,7 +8,8 @@
 </p>
 
 - 🏛 Undergraduate student at ECE NTUA, Greece 🇬🇷
-- 🌱 Machine Learning enthusiast
+- 🎉 Just completed my [thesis!](https://github.com/LefterisLymp/Forest_Detection)
+- 🌱 Applied Machine Learning enthusiast
 - 📫 How to reach me: [lefterislib@gmail.com](mailto:lefterislib@gmail.com)
 
 
