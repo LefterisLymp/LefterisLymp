@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<img align="center" width="500" alt="Screenshot 2022-10-05 at 4 39 33 PM" src="https://user-images.githubusercontent.com/64773191/194074588-6bc38df4-d2a3-44b5-b63d-0d31809b9994.png">
+<img width="908" alt="Screenshot 2022-10-05 at 4 44 04 PM" src="https://user-images.githubusercontent.com/64773191/194075648-6453a0f4-7a07-4bcf-b879-36f40de1ff88.png">
 </p>
 
 - 🏛 Undergraduate student at ECE NTUA, Greece 🇬🇷
