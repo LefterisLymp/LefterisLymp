@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/64773191/194073523-11c49e7f-1cf3-4815-8b1f-2d15df6f6d6a.jpeg" title="sky" alt="sky" width="800" align="center"/>&nbsp;
+<p align="center">
+<img align="center" width="800" alt="Screenshot 2022-10-05 at 4 39 33 PM" src="https://user-images.githubusercontent.com/64773191/194074588-6bc38df4-d2a3-44b5-b63d-0d31809b9994.png">
+</p>
 
 - 🏛 Undergraduate student at ECE NTUA, Greece 🇬🇷
 - 🌱 Machine Learning enthusiast
