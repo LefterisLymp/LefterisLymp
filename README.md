@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 📫 How to reach me: [lefterislib@gmail.com](lefterislib@gmail.com)
+- 📫 How to reach me: [lefterislib@gmail.com](mailto:lefterislib@gmail.com)
 
 
 ---
