@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<img src="https://user-images.githubusercontent.com/64773191/194073523-11c49e7f-1cf3-4815-8b1f-2d15df6f6d6a.jpeg" title="sky" alt="sky" width="800" align="center"/>&nbsp;
+
 - 🏛 Undergraduate student at ECE NTUA, Greece 🇬🇷
 - 🌱 Machine Learning enthusiast
 - 📫 How to reach me: [lefterislib@gmail.com](mailto:lefterislib@gmail.com)
