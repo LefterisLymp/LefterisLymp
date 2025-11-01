@@ -7,9 +7,8 @@
 <img width="908" alt="Screenshot 2022-10-05 at 4 44 04 PM" src="https://user-images.githubusercontent.com/64773191/194075648-6453a0f4-7a07-4bcf-b879-36f40de1ff88.png">
 </p>
 
-- 🏛 Graduated from ECE NTUA, Greece 🇬🇷
+- 🌱 Aspiring data scientist based in Greece 🇬🇷
 - 📃 Check out my [thesis!](https://github.com/LefterisLymp/Forest_Detection)
-- 🌱 Applied Machine Learning enthusiast
 - 📫 How to reach me: [lefterislib@gmail.com](mailto:lefterislib@gmail.com)
 
 
